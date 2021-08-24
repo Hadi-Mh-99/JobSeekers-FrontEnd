@@ -1,0 +1,20 @@
+.accordion{
+    color: #4f4f4f!important;
+    box-shadow: none!important;
+    border: none;
+    outline: 0px!important;
+    background-color: #f8f8f8!important;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    position: static!important;
+}
+.accordion:focus, .accordion:active{
+    box-shadow: none!important;
+    outline: 0px!important;
+    background-color: #f8f8f8!important;
+}
+.btn{
+    position: static!important;
+}
